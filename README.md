@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MERN projects**
 
-- 📫 How to reach me **minnu512552@gmail.com.com**
+- 📫 How to reach me **minnu512552@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
