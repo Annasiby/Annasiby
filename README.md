@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Minnu Anna Siby</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **MERN projects**
+- 🔭 I’m currently working on **MERN projects.**
 - 👯 Looking to collaborate on open source projects.
 - 📫 Reach me at: **minnu512552@gmail.com**
 
